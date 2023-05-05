@@ -6,7 +6,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Windows-0078D6](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![MatheusLux's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLux&show_icons=true&theme=radical&locale=pt-br)]
+![MatheusLux's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLux&show_icons=true&theme=radical&locale=pt-br)
 
 ### Aprendendo:
 
